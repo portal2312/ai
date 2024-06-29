@@ -1,5 +1,9 @@
 # Judgment methods and parameters of artificial neural network
 
+목표:
+
+- 인공신경망의 언어모델과, 인공신경망을 구성하는 파라미터에 대해 설명할 수 있다.
+
 [인공 신경망](<https://en.wikipedia.org/wiki/Neural_network_(machine_learning)>)의 판단 방법과 파라미터.
 
 인공 신경망의 언어 모델과 인공 신경망을 구성하는 파라미터에 대해 설명할 수 있다.
