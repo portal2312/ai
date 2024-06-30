@@ -1,4 +1,4 @@
-# How to use ChatGPT
+# Use ChatGPT for purpose
 
 목적:
 
@@ -7,7 +7,7 @@
 - 다양한 학습에 GPT를 효과적으로 활용하는 방법을 설명할 수 있다.
 - 프로그램을 코딩할 때 ChatGPT를 활용하는 방법을 설명할 수 있다.
 
-## ChatGPT로 정보 탐색과 요약하기
+## Explore and Summarize
 
 사전식 정보를 연속해서 질문을 통해 탐색할 수 있습니다:
 
@@ -35,15 +35,11 @@
 - 백설공주 줄거리를 왕자의 입장에서 100 글자로 요약
 - 백설공주 줄거리를 난쟁이의 입장에서 100 글자로 요약
 
-## 마케팅에 ChatGPT 활용하기 (1)
+## Marketing
 
 TODO
 
-## 마케팅에 ChatGPT 활용하기 (2)
-
-TODO
-
-## 번역과 학습에 ChatGPT 활용하기
+## Translation and Learning
 
 빈도에 따른 질문을 할 수 있습니다:
 
@@ -83,4 +79,11 @@ TODO
 
 - 위 나의 답변에 대한 더 좋은 답변이 되려면 어떤 부분을 개선하면 좋겠습니까?
 
-## 프로그램 코딩에 ChatGPT 활용하기
+## Coding
+
+코딩을 할 수 있습니다:
+
+- Python 으로 10px 빨간 사각형을 그리는 code 를 만들어 줘
+- Javascript 으로 10px 빨간 사각형을 그리는 code 를 만들어 줘
+
+리뷰 및 개선할 수 있습니다: 생략
